@@ -1,0 +1,67 @@
+{
+	"folders": [
+		{
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/lab1/CurvaDinamicaXS-G"
+		},
+		{
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/platformio/ConfigurarEntorno"
+		},
+		{
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/platformio/mqtt"
+		},
+		{
+			"name": "ControlVelocidad",
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/lab2/ControlVelocidad"
+		},
+		{
+			"name": "CmdVel",
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/lab2/CmdVel"
+		},
+		{
+			"name": "Control de posicion",
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/lab3/Control de posicion"
+		},
+		{
+			"name": "cmdPos",
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/lab3/cmdPos"
+		},
+		{
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/lab4/Control de posicion Discreto"
+		},
+		{
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/examen1/examen1"
+		},
+		{
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/lab4/Control EE cascada MotorLab"
+		},
+		{
+			"name": "Encoder",
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/Encoder"
+		},
+		{
+			"name": "1GDL",
+			"path": "../1GDL"
+		},
+		{
+			"name": "Acelerometro",
+			"path": "../Acelerometro"
+		},
+		{
+			"name": "PRUEBAS",
+			"path": "."
+		},
+		{
+			"name": "Proyecto_Sistemas_Control",
+			"path": "../../../../Desktop/Proyecto_Sistemas_Control"
+		},
+		{
+			"name": "PID balancin",
+			"path": "../PID balancin"
+		},
+		{
+			"name": "PID_SC",
+			"path": "G:/Mi unidad/PUCP/SISTEMAS DE CONTROL/PID_SC"
+		}
+	],
+	"settings": {}
+}
